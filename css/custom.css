@@ -1,0 +1,20 @@
+#top{
+	width: 980px;
+	margin: auto;
+}
+#par1{
+	font-size: 3em;
+}
+
+p.par2{
+	font-weight: bold;
+}
+
+szxc{
+	color: #aa0006;
+}
+.footer{text-align: right;}
+
+.container > hr{
+	margin: 20px;
+}
